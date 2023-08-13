@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página</title>
+</head>
+<body>
+  <div>
+    <h1>WORLD COLLECTION</h1>
+    <p>Hola!!!Una pagina dirigida a los que compartimos el mismo hobby y amor por coleccionar :D.</p>
+  </div>
+  
+  <div>
+    <h2><b>CATEGORIAS</b></h2>
+    <a href="Categorias.HTML"><button>CATEGORIAS</button></a>
+    </section>
+    <h2><b>PREGUNTAS</b></h2>
+    <a href="Preguntas.HTML"><button>PREGUNTAS</button></a>
+    </section>
+    <h2><b>CONTACTOS</b></h2>
+    <a href="Contactos.HTML"><button>CONTACTOS</button></a>
+    </section>
+    <h2><b>COMUNIDAD</b></h2>
+    <a href="Comunidad.HTML"><button>COMUNIDAD</button></a>
+    </section>
+  
+  <div>
+    <img src="World Collection Fotos/1.jpg" alt="Imagen 1">
+    <img src="World Collection Fotos/2.jpg" alt="Imagen 2">
+    <img src="World Collection Fotos/3.jpg" alt="Imagen 3">
+    <img src="World Collection Fotos/4.jpg" alt="Imagen 4">
+  </div>
+</body>
+</html>
+    
+</body>
+</html>
